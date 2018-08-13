@@ -10,5 +10,3 @@ You can view Project [Here](https://github.com/pooja2512/DAND_term2_project_Wran
 - Libraries: Pandas, Numpy, os, requests, matplotlib, seaborn, tweepy, json
 - Jupyter Notebook
 
-## Key Findings
-- 
